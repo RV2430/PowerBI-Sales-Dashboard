@@ -6,10 +6,10 @@ This Power BI report provides business insights into sales and profits using the
 
 ## 🔍 Key Insights
 
-- 💰 **Total Profit**: ₹286.40K  
-- 🛒 **Total Sales**: ₹2.30M  
+- 💰 **Total Profit**: $286.40K  
+- 🛒 **Total Sales**: $2.30M  
 - 📦 **Total Orders**: 5K  
-- 👤 **Sales per Customer**: ₹2.90K  
+- 👤 **Sales per Customer**: $2.90K  
 
 These KPIs are shown at the top of the dashboard to give a quick overview of overall performance.
 
